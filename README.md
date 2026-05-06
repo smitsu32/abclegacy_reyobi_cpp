@@ -1,6 +1,6 @@
 # abc_liecrew_cpp - AtCoder ABC 過去問回答リポジトリ
 
-このリポジトリは、競技プログラミングサイトAtCoder の「ABC（AtCoder Beginner Contest）」における過去の自分の回答を整理・管理するためのものです。
+このリポジトリは、競技プログラミングサイト[AtCoder](https://atcoder.jp/home) の「ABC（AtCoder Beginner Contest）」における過去の自分の回答を整理・管理するためのものです。
 
 - 各コンテストごとにディレクトリを分けて回答を保存しています。
 - 主にC++で実装しています（一部他の言語を含む場合があります）。
@@ -27,9 +27,3 @@ abc_reyobi_cpp/
 | パターン | 例 | 説明 |
 |---|---|---|
 | `abc{番号}{難易度}.cpp` | `abc451a.cpp` | 基本解答 |
-
-## リンク
-
-- 🔗 [AtCoderプロフィール(liecrew)](https://atcoder.jp/users/liecrew)
-
-[![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)
